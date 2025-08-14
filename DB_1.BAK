@@ -1,0 +1,16 @@
+#include<iostream.h>
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+ int num1,num2;
+ cout<<"Enter a number1";
+ cin>>num1;
+ cout<<"Enter a number2";
+ cin>>num2;
+ //sum oftwo numbers
+ sum=num1+num2;
+ //prints sum
+ cout<<number1<<"+"<<number2<<"="<<sum;
+ return 0;
+ }
